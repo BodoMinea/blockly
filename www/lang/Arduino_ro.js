@@ -1,5 +1,5 @@
 'use strict';
-goog.provide ( 'Blockly.Msg.fr');
+goog.provide ( 'Blockly.Msg.ro');
 goog.require ( 'Blockly.Msg');
 // Electron window
 Blockly.Msg.com1 = "Selectează portul USB";
@@ -8,7 +8,7 @@ Blockly.Msg.check = "Verifică...";
 Blockly.Msg.upload = "Încarcă...";
 Blockly.Msg.error = "🔔 EROARE: Blocuri neconectate!";
 Blockly.Msg.verif = "🔔 Trebuie verificat codul mai întâi "
-Blockly.Msg.save = "Save as format";
+Blockly.Msg.save = "Salvează ca";
 Blockly.Msg.update = "Actualizează";
 Blockly.Msg.new_update = "O versiune nouă a fost găsită online. Doriți să actualizați aplicația?" ;
 Blockly.Msg.yes = "da";
@@ -35,7 +35,7 @@ Blockly.Msg.CAT_analogique = "~ Analogic";
 Blockly.Msg.CAT_wifi = "＠ Wireless";
 Blockly.Msg.CAT_TAB = "▦ Tabel";
 Blockly.Msg.CAT_list = "▤ Listă";
-Blockly.Msg.CAT_servo = "↷ Motor Servo";
+Blockly.Msg.CAT_servo = "↷ Servomotor";
 Blockly.Msg.CAT_del = "☄ LED";
 Blockly.Msg.CAT_LOGIC = "⇋ Logică";
 Blockly.Msg.CAT_MATH = "∑ Matematică";
